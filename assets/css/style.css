@@ -1,0 +1,24 @@
+.booking-options, .single-booking-options {
+    background: #f1f1f1;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.booking-options h3, .single-booking-options h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.booking-options label, .single-booking-options label {
+    font-size: 16px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.booking-options input, .single-booking-options input {
+    padding: 8px;
+    font-size: 14px;
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 15px;
+}

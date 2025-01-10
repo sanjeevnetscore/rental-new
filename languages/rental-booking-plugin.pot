@@ -1,0 +1,14 @@
+msgid "Enable rental booking system for products"
+msgstr "Enable rental booking system for products"
+
+msgid "Select Your Rental Option"
+msgstr "Select Your Rental Option"
+
+msgid "Daily Rate"
+msgstr "Daily Rate"
+
+msgid "Weekly Rate"
+msgstr "Weekly Rate"
+
+msgid "Monthly Rate"
+msgstr "Monthly Rate"
